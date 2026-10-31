@@ -1,0 +1,17 @@
+seed,connectivity,n_qubits,logical_gates,cx,depth
+0,line,8,18,62,108
+0,all-to-all,8,18,47,84
+1,line,8,18,62,108
+1,all-to-all,8,18,47,84
+2,line,8,18,62,108
+2,all-to-all,8,18,47,84
+3,line,8,18,62,108
+3,all-to-all,8,18,47,84
+4,line,8,18,62,108
+4,all-to-all,8,18,47,84
+0,line,16,41,180,166
+0,all-to-all,16,41,108,114
+1,line,16,41,180,166
+1,all-to-all,16,41,108,114
+2,line,16,41,180,166
+2,all-to-all,16,41,108,114

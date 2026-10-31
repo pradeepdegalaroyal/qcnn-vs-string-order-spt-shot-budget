@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Shot-Budget Benchmark of a Quantum Convolutional Neural Network against String-Order and Tensor-Network Baselines for Phase Recognition"
+type: software
+authors:
+  - family-names: Degala
+    given-names: Chenchupradeep
+repository-code: "https://github.com/pradeepdegalaroyal/qcnn-vs-string-order-spt-shot-budget"
+url: "https://github.com/pradeepdegalaroyal/qcnn-vs-string-order-spt-shot-budget"
+license: MIT
+version: 0.1.0
+date-released: "2026-10-31"
+keywords:
+  - quantum machine learning
+  - quantum convolutional neural network
+  - tensor networks
+  - symmetry-protected topological phase
